@@ -90,6 +90,7 @@ void F__Binery_to_Dec(){
         d = power(RealRest,i,2);
         if(rest == 0 ){
             break;
+        
         }
     }
     printf("d = %d\n",d);
